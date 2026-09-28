@@ -1,0 +1,6 @@
+{
+  "name": "Portafolio para Trabajadores Independientes",
+  "description": "Portafolio profesional de sitios web diseñados para electricistas, plomeros y trabajadores de oficios independientes para mostrar sus proyectos, servicios y zonas de trabajo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
